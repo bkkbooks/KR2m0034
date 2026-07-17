@@ -18,6 +18,7 @@ markers:
   - {type: line-break, offset: 15, content: '', id: KR2m0034_WYG_014-1a03}
   - {type: indent, offset: 15, content: 　　, id: KR2m0034_krp_014-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR2m0034_krp_014-bkkpn1}
+  - {type: voice, offset: 18, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 21, content: /, id: KR2m0034_krp_014-bkkpn2}
   - {type: punctuation, offset: 21, content: ), id: KR2m0034_krp_014-bkkpn3}
   - {type: 'kr:newline', offset: 21, content: '
@@ -1618,6 +1619,7 @@ markers:
   - {type: indent, offset: 3901, content: 　　　, id: KR2m0034_krp_014-bkkind308}
   - {type: punctuation, offset: 3907, content: (, id: KR2m0034_krp_014-bkkpn4}
   - {type: substitution, offset: 3907, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20788}}
+  - {type: voice, offset: 3907, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 3910, content: /, id: KR2m0034_krp_014-bkkpn5}
   - {type: punctuation, offset: 3913, content: ), id: KR2m0034_krp_014-bkkpn6}
   - {type: 'kr:newline', offset: 3913, content: '
@@ -1753,6 +1755,7 @@ markers:
   - {type: line-break, offset: 4213, content: '', id: KR2m0034_WYG_014-19a06}
   - {type: indent, offset: 4213, content: 　　　　, id: KR2m0034_krp_014-bkkind332}
   - {type: punctuation, offset: 4213, content: (, id: KR2m0034_krp_014-bkkpn7}
+  - {type: voice, offset: 4213, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4214, content: /, id: KR2m0034_krp_014-bkkpn8}
   - {type: punctuation, offset: 4214, content: ), id: KR2m0034_krp_014-bkkpn9}
   - {type: substitution, offset: 4228, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -1998,4 +2001,4 @@ markers:
 
       ', id: KR2m0034_krp_014-bkkkrnewl378}
   back: []
-hash: sha256:a297e9770482189fe76200ac03e6e84027be9b233adc68c249eb1dc1b27b62bc
+hash: sha256:93cd4c93187cbe4a996cdebd501f410dcb9f98cc3f1f59731420cf84e1a4bbf0
